@@ -2,7 +2,7 @@
 
 > **Your smart to-do list companion**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_TaskMaster-667eea?style=for-the-badge)](https://yourusername.github.io/taskmaster)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_TaskMaster-667eea?style=for-the-badge)](https://radam910.github.io/taskmaster)
 [![No License](https://img.shields.io/badge/License-No_License-764ba2?style=for-the-badge)](#-license)
 
 ---
@@ -44,7 +44,7 @@ TaskMaster is a beautiful, modern to-do list application built with vanilla HTML
 
 ## 🎮 **Try It Live**
 
-**👉 [Launch TaskMaster](https://yourusername.github.io/taskmaster)**
+**👉 [Launch TaskMaster](https://radam910.github.io/taskmaster)**
 
 ---
 
@@ -54,7 +54,7 @@ Getting started is super easy:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/taskmaster.git
+git clone https://github.com/radam910/taskmaster.git
 
 # Navigate to the project
 cd taskmaster
@@ -161,7 +161,7 @@ Love TaskMaster? Here's how you can show your support:
 
 **Made with 💜 and ☕**
 
-**[⭐ Star](https://github.com/yourusername/taskmaster) • [🐛 Report Bug](https://github.com/yourusername/taskmaster/issues) • [💡 Request Feature](https://github.com/yourusername/taskmaster/issues)**
+**[⭐ Star](https://github.com/radam910/taskmaster) • [🐛 Report Bug](https://github.com/radam910/taskmaster/issues) • [💡 Request Feature](https://github.com/radam910/taskmaster/issues)**
 
 ---
 
