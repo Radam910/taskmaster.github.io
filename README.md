@@ -3,7 +3,7 @@
 > **Your smart to-do list companion**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_TaskMaster-667eea?style=for-the-badge)](https://yourusername.github.io/taskmaster)
-[![License](https://img.shields.io/badge/License-MIT-764ba2?style=for-the-badge)](LICENSE)
+[![No License](https://img.shields.io/badge/License-No_License-764ba2?style=for-the-badge)](#-license)
 
 ---
 
@@ -132,7 +132,17 @@ We love contributions! Here's how you can help make TaskMaster even better:
 
 ## 📄 **License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**No License - Public Domain**
+
+This project has no license restrictions. You are free to:
+
+- ✅ **Use commercially** without attribution
+- ✅ **Modify** and customize however you want  
+- ✅ **Redistribute** without any requirements
+- ✅ **Create derivative works** freely
+- ✅ **Use in proprietary software** without restrictions
+
+**Use TaskMaster however you want - no strings attached!** 🆓
 
 ---
 
